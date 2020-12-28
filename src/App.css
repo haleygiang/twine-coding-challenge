@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  padding: 50px;
+  height: 100vh;
+}
+
+.covid-list {
+  background-color: bisque;
+  border-radius: 10px;
+  padding: 20px;
+  width: auto;
+}
+
+.state-list {
+  font-size: large;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
